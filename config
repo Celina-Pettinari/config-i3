@@ -1,0 +1,45 @@
+#####################################################################
+## Inicialização
+#####################################################################
+# Programas do i3
+    exec --no-startup-id dex --autostart --environment i3
+
+# Programa de rede
+    exec --no-startup-id nm-applet
+
+
+
+#####################################################################
+## Variáveis
+#####################################################################
+
+# Programas
+    set $mod Mod4
+    set $menu rofi
+    set $term kitty
+
+# Teclas
+    set $up w
+    set $right d
+    set $down s
+    set $left a
+
+# Workspace
+    set $w1 "Workspace 1"
+    set $w2 "Workspace 2"
+    set $w3 "Workspace 3"
+    set $w4 "Workspace 4"
+    set $w5 "Workspace 5"
+    set $w6 "Workspace 6"
+    set $w7 "Workspace 7"
+    set $w8 "Workspace 8"
+    set $w9 "Workspace 9"
+    set $w0 "Workspace 0"
+
+
+
+#####################################################################
+## Import
+#####################################################################
+
+include ~/.config/i3/modulos/*.conf
