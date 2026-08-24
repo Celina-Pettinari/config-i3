@@ -28,6 +28,7 @@ Para direção entre workspace use o shift + left / right ou o numero do workspa
 * $mod + m - move: permite mover o container
 * $mod + r - resize: permite redimensionar o container
 
+##
 ### Observações
 * Os atalhos de áudios permaneceram os mesmos
 * Para sair de um container use o mesmo atalho, esc ou enter
