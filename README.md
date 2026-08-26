@@ -17,9 +17,9 @@ Para direção entre workspace use o shift + left / right ou o numero do workspa
 * $mod + s - Screenshot (ainda não testado)
 
 ## Layout
-* $mod + Shift + Scace - Scratchpad move
-* $mod + Space - Scratchpad show
-* $mod + Shift + Scape - Stacking
+* $mod + Shift + Scape - Scratchpad move
+* $mod + Scape - Scratchpad show
+* $mod + Shift + Space - Stacking
 * $mod + f - Fullscreen toggle
 * $mod + h - Toggle split
 * $mod + v - Toggle split
